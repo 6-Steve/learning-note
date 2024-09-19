@@ -9,6 +9,6 @@ res = str1 + str2
 
 print("两个字符串连接后为:", res)
 print("两个字符串连接后为:%s"%res)
-print(f"两个字符串连接后为:{res}")
+# print(f"两个字符串连接后为:{res}")
 
 
